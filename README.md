@@ -7,7 +7,7 @@
 <hr>
 
 <h2>👥 Collaborators</h2>
-<p>This project is proudly built in collaboration with <strong><a href="https://github.com/nehalkashyap" target="_blank">Nehal Kashyap</a></strong>.</p>
+<p>This project is proudly built in collaboration with <strong><a href="https://github.com/nehal-analytic-12" target="_blank">Nehal Kashyap</a></strong>.</p>
 
 <h2>✨ Features</h2>
 <ul>
