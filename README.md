@@ -44,4 +44,3 @@
 </ul>
 
 <hr>
-<p align="center"><em>Built with ❤️ by the contributors.</em></p>
